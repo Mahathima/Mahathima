@@ -35,6 +35,4 @@
 
 ## ✨ Projetos em destaque
 - [Agenda CLI](https://github.com/Mahathima/Agenda_cli) – Gerenciador de contatos via terminal
-- [Outro Projeto](https://github.com/Mahathima/outro-projeto) – Descrição breve
-
 ---
