@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Mahathima!
 
 ## 🚀 Sobre mim
-- 💻 Desenvolvedor full stack focado em Node.js
+- 💻 Desenvolvedor full stack focado em Node.js / Django / Next.js / Nest.js
 - 📚 Sempre aprendendo novas tecnologias
 - 🌎 Localizado em Fortaleza, Ceará - Brasil
 - 🎯 Objetivo: criar soluções simples e úteis para o dia a dia
