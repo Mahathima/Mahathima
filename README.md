@@ -35,4 +35,5 @@
 
 ## ✨ Projetos em destaque
 - [Agenda CLI](https://github.com/Mahathima/Agenda_cli) – Gerenciador de contatos via terminal
+- [Marketplace Sistema de Gestão](https://github.com/Mahathima/Marketplace-Sistema-de-Gestao) – Marketplace e Sistemas de Gestão
 ---
